@@ -1,5 +1,3 @@
-
-
 public class Small_idx {
     public static void main(String [] args)
     {
